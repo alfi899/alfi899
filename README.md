@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @alfi899
+- 👀 I’m interested in Motorbikes and coding
+- 🌱 I’m currently learning computer science and flutter
